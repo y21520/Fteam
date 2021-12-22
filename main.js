@@ -1,7 +1,11 @@
 function start(){
     //画像ファイル名を配列で保持
     const image1 = [
-        //画像
+        "images/ube_1.PNG", 
+        "images/hasuto_1.PNG", 
+        "images/yusaku_1.PNG", 
+        "images/takuma_1.PNG", 
+        "images/yusaku2_1.PNG"
     ];
 
     const image2 = [
