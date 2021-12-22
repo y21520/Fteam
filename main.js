@@ -21,7 +21,7 @@ function stop2(){
     ];
     
     //ランダムで画像ファイルを取得して表示する
-    let obj2 = document.getElementById("/*画像表示のid*/");
+    let obj2 = document.getElementById("im2");
     let a2 = Math.floor(Math.random() * image2.length);
     obj2.src = image2[a2];
 }
@@ -33,13 +33,16 @@ function stop3(){
     ];
     
     //ランダムで画像ファイルを取得して表示する
-    let obj3 = document.getElementById("/*画像表示のid*/");
+    let obj3 = document.getElementById("im3");
     let a3 = Math.floor(Math.random() * image3.length);
     obj3.src = image3[a3];
 }
 
+
+let DefaultHTML;
+function DefaultSave() {
+    DefaultHTML = document.body.innerHTML;
+}
 function reset(){
-    obj1.reset();
-    obj2.reset();
-    obj3.reset();
+    document.body.innerHTML = DefaultHTML;
 }
