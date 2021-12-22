@@ -18,7 +18,7 @@ function start(){
  
     //ランダムで画像ファイルを取得して表示する
     function stop1(){
-        let obj1 = document.getElementById("/*画像表示のid*/");
+        let obj1 = document.getElementById("im1");
         let a1 = Math.floor(Math.random() * image1.length);
         obj1.src = image1[a1];
     }
