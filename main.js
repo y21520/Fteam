@@ -1,11 +1,15 @@
 function stop1(){
     //画像ファイル名を配列で保持
     const image1 = [
-        "images/ube_1.PNG", 
-        "images/hasuto_1.PNG", 
-        "images/yusaku_1.PNG", 
+        "images/hasuto_1.PNG",
+        "images/koya_1.PNG",
+        "images/rin_1.PNG",
         "images/takuma_1.PNG", 
-        "images/yusaku2_1.PNG"
+        "images/ube_1.PNG", 
+        "images/yoshiki_1.PNG",  
+        "images/yusaku_1.PNG", 
+        "images/yusaku2_1.PNG",
+        "images/yuya_1.PNG"
     ];
     
     //ランダムで画像ファイルを取得して表示する
@@ -17,7 +21,15 @@ function stop1(){
 function stop2(){
     //画像ファイル名を配列で保持
     const image2 = [
-        //画像
+        "images/hasuto_2.PNG",
+        "images/koya_2.PNG",
+        "images/rin_2.PNG",
+        "images/takuma_2.PNG", 
+        "images/ube_2.PNG", 
+        "images/yoshiki_2.PNG",  
+        "images/yusaku_2.PNG", 
+        "images/yusaku2_2.PNG",
+        "images/yuya_2.PNG"
     ];
     
     //ランダムで画像ファイルを取得して表示する
@@ -29,7 +41,15 @@ function stop2(){
 function stop3(){
     //画像ファイル名を配列で保持
     const image3 = [
-        //画像
+        "images/hasuto_3.PNG",
+        "images/koya_3.PNG",
+        "images/rin_3.PNG",
+        "images/takuma_3.PNG", 
+        "images/ube_3.PNG", 
+        "images/yoshiki_3.PNG",  
+        "images/yusaku_3.PNG", 
+        "images/yusaku3_1.PNG",
+        "images/yuya_3.PNG"
     ];
     
     //ランダムで画像ファイルを取得して表示する
