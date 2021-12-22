@@ -48,7 +48,7 @@ function stop3(){
         "images/ube_3.PNG", 
         "images/yoshiki_3.PNG",  
         "images/yusaku_3.PNG", 
-        "images/yusaku3_1.PNG",
+        "images/yusaku2_3.PNG",
         "images/yuya_3.PNG"
     ];
     
