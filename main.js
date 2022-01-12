@@ -49,8 +49,8 @@ function stop3(){
     const image3 = [
         "images/hasuto_3.PNG",
         "images/koya_3.PNG",
-        "images/komatu_2.PNG",
-        "images/komatu2_2.PNG",
+        "images/komatu_3.PNG",
+        "images/komatu2_3.PNG",
         "images/rin_3.PNG",
         "images/takuma_3.PNG",
         "images/takumi_3.PNG",
