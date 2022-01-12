@@ -1,37 +1,49 @@
-body{
-    background-color: #076;
+h1{
+  font-size: 80px;
+}
+#reset{
+  background-color: #000000;
+  color: #fff;
+  border: 6px inset #03a;
+}
+#stop1{
+  background-color: #000;
+  color: #fff;
+  border: 6px inset #03a;
+}
+#stop2{
+  background-color: #000;
+  color: #fff;
+  border: 6px inset #03a;
+}
+#stop3{
+  background-color: #000;
+  color: #fff;
+  border: 6px inset #03a;
 }
 
 #im1{
-
-    position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+  display: flex;
+  flex-direction: column;
   margin: auto;
-  width: 50%;
-  height: 250px;
+width: 50%;
+width: 600px;
+height: 250px;
 }
 
 #im2{
-    position: absolute;
-  top: 500px;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  margin: auto;
-  width: 50%;
-  height: 250px;
+  display: flex;
+  flex-direction: column;
+margin: auto;
+width: 50%;
+width: 600px;
+height: 150px;
 }
 
 #im3{
-    position: absolute;
-  top: 1000px;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  margin: auto;
-  width: 50%;
-  height: 250px;
+  display: flex;
+  flex-direction: column;
+margin: auto;
+width: 600px;
+height: 250px;
 }
