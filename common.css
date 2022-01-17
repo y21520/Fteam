@@ -1,5 +1,10 @@
 h1{
+  text-align: center;
   font-size: 80px;
+}
+.outline {
+  text-align: center;
+  margin-bottom: 20px;
 }
 #reset{
   background-color: #000000;
